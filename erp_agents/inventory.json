@@ -1,0 +1,5 @@
+{
+  "Laptop": {"stock": 5, "restock_days": 7},
+  "Mouse": {"stock": 0, "restock_days": 3},
+  "Keyboard": {"stock": 10, "restock_days": 0}
+}
